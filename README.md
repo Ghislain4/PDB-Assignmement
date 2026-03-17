@@ -1,9 +1,8 @@
-# PDB-Assignmement
+# PDB-Project
 PL work
 
 Name: Sugira Ghislain
 
-ID: 27776
 # Report: Creating and Managing a Pluggable Database in Oracle
 
 ## 1. Overview of the Task
